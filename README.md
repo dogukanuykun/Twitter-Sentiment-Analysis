@@ -25,16 +25,7 @@ Mentioned users' username is replaced with @user.
   ```sh
   pip install tensorflow
   ```
-* scikit-learn
-  ```
-  pip install -U scikit-learn
-  ```
-  In order to check your installation you can use
-  ```
-  python -m pip show scikit-learn  # to see which version and where scikit-learn is installed
-  python -m pip freeze  # to see all packages installed in the active virtualenv
-  python -c "import sklearn; sklearn.show_versions()
-  ```
+
 * Pandas & Numpy
   ```
   pip install pandas
