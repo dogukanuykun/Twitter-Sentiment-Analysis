@@ -15,6 +15,7 @@ Mentioned users' username is replaced with @user.
 
 * [Tensorflow](https://www.tensorflow.org/)
 * [Keras](https://keras.io/)
+* [NLTK](https://www.nltk.org/)
 * [Numpy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [Python](https://www.python.org/)
@@ -31,6 +32,9 @@ Mentioned users' username is replaced with @user.
   pip install pandas
   pip install numpy
   ```
-
+* NLTK
+  ```
+  pip install --user -U nltk
+  ```
 Acknowledgements
 Dataset is provided by Analytics Vidhya
