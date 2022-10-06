@@ -1,7 +1,7 @@
 # Twitter-Sentiment-Analysis
 Twitter Sentiment Analysis in Python with LSTMs &amp; Pretrained Embedding Vectors
 
-<img src = "https://github.com/dogukanuykun/Twitter-Sentiment-Analysis/blob/main/sad-smile.jpg" >
+<img src = "https://github.com/dogukanuykun/Twitter-Sentiment-Analysis/blob/main/sad-smile.jpg" width = 200 height = 200>
 
 About Dataset <br>
 Context:
